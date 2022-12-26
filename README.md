@@ -17,7 +17,10 @@ In this paper, we propose the application of speaker embedding networks for zero
 
 
 my name is Mozhgan Dehghan Azad
+
 40014140111066 student number
+
 Digital signal processing Eslami
+
 
 https://github.com/ak9250/Zero-shot-Singing-Voice-Conversion
