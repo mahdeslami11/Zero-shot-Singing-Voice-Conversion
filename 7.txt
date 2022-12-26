@@ -11,8 +11,7 @@
 6.https://proceedings.mlr.press/v97/qian19c.html
 
 
-این 2 پی دی اف داخل فایل
-
+فایل 8 و 7 داخل فایل ها به صورت مستقیم اومده
 
 
 9.https://arxiv.org/pdf/1905.05879v2.pdf
