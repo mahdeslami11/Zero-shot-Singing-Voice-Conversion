@@ -1,0 +1,6 @@
+you have ti install pyton 
+if you want to fix eror you need to install the desired linraries on your PC. for this you need to go to START search for CMD add this libraries after that press enter
+
+this libraries
+pip install numpy 
+pip install torch
