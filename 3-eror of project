@@ -4,3 +4,8 @@ if you want to fix eror you need to install the desired linraries on your PC. fo
 this libraries
 pip install numpy 
 pip install torch
+
+
+
+you have to install VsCode for this project 
+vscode will introduce you to the programs required by the project
