@@ -21,7 +21,7 @@ speaker embeddings can indeed be used directly for zeroshot SVC. Moreover, zero-
 well as (or even better than) their supervised closed set
 counterparts, with the invaluable added benefits that they
 can be trained on unlabeled data and can potentially adapt
-to new voices without requiring further training. Furthermore, we show that there is some benefit to training zeroshot SVC networks by adapting an initial model trained on
+to new voices without requiring further training. Furthermore, we show that there is some benefit to training zeroshot SVC networks by adapting an initial model trained on
 large amounts of speech data. In future work, we will investigate learning latent factors which can allow for further
 expressive manipulation of conversion results. While some
 initial progress to this end has been made using Gaussian
