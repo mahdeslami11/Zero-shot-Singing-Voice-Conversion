@@ -1,3 +1,8 @@
+import numpy as np
+import torch
+import torch.nn as nn
+import torch.nn.functional as F
+import numpy as np
 #autovc from https://github.com/auspicious3000/autovc/blob/master/model_vc.py
 
 class LinearNorm(torch.nn.Module):
