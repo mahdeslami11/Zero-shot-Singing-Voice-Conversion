@@ -1,0 +1,16 @@
+first of all you you should install som aplication like  pyton , VScode , git_hub 
+
+if you want to fix eror you need to install the desired linraries on your PC.
+
+for this you need to go to START search for CMD add this libraries after that press enter
+
+this libraries:
+
+pip install numpy 
+
+pip install torch
+
+after that your error will be fixed
+
+
+vscode will introduce you to the programs required by the project
