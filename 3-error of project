@@ -12,5 +12,16 @@ pip install torch
 
 after that your error will be fixed
 
-
 vscode will introduce you to the programs required by the project
+
+
+
+i got help from one of my friend for this article
+
+he said to refer to this link for a better understanding of how to fix the library error 
+
+ 
+ https://builtin.com/software-engineering-perspectives/pip-command-not-found
+  
+
+
