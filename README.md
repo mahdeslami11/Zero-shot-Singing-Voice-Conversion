@@ -26,7 +26,7 @@ Digital signal processing Eslami
 https://github.com/ak9250/Zero-shot-Singing-Voice-Conversion
 
 
-other link in the aeticle:
+other link in the article:
 
   https://sites.google.com/izotope.com/ismir2020-audio-demo
   
